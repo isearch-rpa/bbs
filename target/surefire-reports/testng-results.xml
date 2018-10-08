@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="3496" started-at="2018-06-14T10:21:02Z" finished-at="2018-06-14T10:21:06Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="3496" started-at="2018-06-14T10:21:02Z" finished-at="2018-06-14T10:21:06Z">
+      <class name="org.b3log.symphony.util.PanguTestCase">
+        <test-method status="PASS" signature="test()" name="test" duration-ms="19" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+      </class>
+      <class name="org.b3log.symphony.util.RedditScoreTest">
+        <test-method status="PASS" signature="redditScore()" name="redditScore" duration-ms="12" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+      </class>
+      <class name="org.b3log.symphony.util.MarkdownsTestCase">
+        <test-method status="PASS" signature="clean()" name="clean" duration-ms="1947" started-at="2018-06-14T10:21:03Z" finished-at="2018-06-14T10:21:05Z">
+        </test-method>
+        <test-method status="PASS" signature="jsoupParse()" name="jsoupParse" duration-ms="290" started-at="2018-06-14T10:21:05Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="linkToHTML()" name="linkToHTML" duration-ms="1" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="space()" name="space" duration-ms="0" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="tag()" name="tag" duration-ms="0" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="toHTML()" name="toHTML" duration-ms="0" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="toHTML1()" name="toHTML1" duration-ms="1" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+        <test-method status="PASS" signature="toHtml0()" name="toHtml0" duration-ms="0" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+      </class>
+      <class name="org.b3log.symphony.util.XSSTestCase">
+        <test-method status="PASS" signature="xss()" name="xss" duration-ms="37" started-at="2018-06-14T10:21:06Z" finished-at="2018-06-14T10:21:06Z">
+        </test-method>
+      </class>
+      <class name="org.b3log.symphony.util.ElasticsearchTestCase">
+        <test-method status="PASS" signature="QueryDslBuilder()" name="QueryDslBuilder" duration-ms="1125" started-at="2018-06-14T10:21:02Z" finished-at="2018-06-14T10:21:03Z">
+        </test-method>
+        <test-method status="PASS" signature="QueryDslJSONBuilder()" name="QueryDslJSONBuilder" duration-ms="14" started-at="2018-06-14T10:21:03Z" finished-at="2018-06-14T10:21:03Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

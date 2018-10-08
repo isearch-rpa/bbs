@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="C20" name="org.b3log.symphony.util.ElasticsearchTestCase" tests="13" failures="0" timestamp="14 Jun 2018 02:21:06 GMT" time="3.496" errors="0">
+  <testcase name="QueryDslBuilder" time="1.125" classname="org.b3log.symphony.util.ElasticsearchTestCase"/>
+  <testcase name="QueryDslJSONBuilder" time="0.014" classname="org.b3log.symphony.util.ElasticsearchTestCase"/>
+  <testcase name="clean" time="1.947" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="jsoupParse" time="0.29" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="linkToHTML" time="0.001" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="space" time="0.0" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="tag" time="0.0" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="toHTML" time="0.0" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="toHTML1" time="0.001" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="toHtml0" time="0.0" classname="org.b3log.symphony.util.MarkdownsTestCase"/>
+  <testcase name="test" time="0.019" classname="org.b3log.symphony.util.PanguTestCase"/>
+  <testcase name="redditScore" time="0.012" classname="org.b3log.symphony.util.RedditScoreTest"/>
+  <testcase name="xss" time="0.037" classname="org.b3log.symphony.util.XSSTestCase"/>
+</testsuite>
